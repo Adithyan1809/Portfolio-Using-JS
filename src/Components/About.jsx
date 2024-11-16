@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/MyImage.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -31,12 +31,12 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Machine Learning",
+  "Deep Learning",
+  "Data Analysis",
+  "Data Visualization",
+  "Data Mining",
+  "Data Structures",
 ];
 
 /**
